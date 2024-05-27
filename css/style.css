@@ -1,0 +1,170 @@
+/* Global styles */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.content {
+    margin: 30px 0;
+}
+
+/* Tab button styles */
+.tab-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.tab-button {
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+    margin: 0 1rem;
+    padding: 10px 20px;
+    transition: 0.3s;
+}
+
+.tab-button:hover {
+    background-color: #ddd;
+}
+
+.tab-button.active {
+    background-color: #ccc;
+}
+
+/* Tab content centering */
+.tab-content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 60px); /* 100% viewport height minus the height of the tab buttons */
+}
+
+.tab-content {
+    width: 100%;
+    max-width: 600px; /* Adjust this value if needed */
+    box-sizing: border-box;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+
+/* Form styles */
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.form-container input[type=text],
+.form-container input[type=password],
+.form-container input[type=date],
+.form-container input[type=number],
+.form-container select,
+.form-container textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.form-container input[type=file] {
+    margin-top: 10px;
+}
+
+.form-container button {
+    background-color: #ff5a5f;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+
+.form-container button:hover {
+    background-color: #ff3b3f;
+}
+
+.form-container label input[type=checkbox] {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+table th {
+    background-color: #ff5a5f;
+    color: white;
+    text-align: left;
+    padding: 8px;
+}
+
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #ddd;
+}
+
+/* Button styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: #005f75;
+}
+
+/* Responsive styles */

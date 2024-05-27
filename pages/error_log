@@ -1,0 +1,115 @@
+[08-Apr-2023 01:30:36 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:30:36 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:30:36 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:40:36 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:40:36 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:40:36 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:49:56 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:49:56 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:49:56 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:57:48 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:57:48 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 01:57:48 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:30 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:30 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:30 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:31 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:31 America/Chicago] PHP Warning:  include(/php/db_connect.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:03:31 America/Chicago] PHP Warning:  include(): Failed opening '/php/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/login.php on line 1
+[08-Apr-2023 02:22:45 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:22:45 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:22:45 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:25:43 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:25:43 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:25:43 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:28:21 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:28:21 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:28:21 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:32:11 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:32:11 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:32:11 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:33:50 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:33:50 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:33:50 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:46:41 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:46:41 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:46:41 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:47:32 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:47:32 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:47:32 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:51:18 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:51:18 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:51:18 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:55:56 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:55:56 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:55:56 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:57:28 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:57:28 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:57:28 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:58:48 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:58:48 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 02:58:48 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 03:06:06 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:06:06 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:06:06 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:14:41 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:14:41 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:14:41 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:18:52 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:18:52 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 03:18:52 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:00 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:00 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:00 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:03 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:03 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:03 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:09 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:09 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:09 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[08-Apr-2023 07:38:17 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:17 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:17 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:28 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:28 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:38:28 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:40:43 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:40:43 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 07:40:43 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 08:17:45 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 08:17:45 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[08-Apr-2023 08:17:45 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[09-Apr-2023 06:06:42 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[09-Apr-2023 06:06:42 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[09-Apr-2023 06:06:42 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[09-Apr-2023 06:06:48 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[09-Apr-2023 06:06:48 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[09-Apr-2023 06:06:48 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 32
+[09-Apr-2023 06:10:30 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[09-Apr-2023 06:10:30 America/Chicago] PHP Warning:  include(/pages/header.php): Failed to open stream: No such file or directory in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[09-Apr-2023 06:10:30 America/Chicago] PHP Warning:  include(): Failed opening '/pages/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 83
+[10-Apr-2023 04:31:58 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:35:23 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:35:28 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/new_Fct.php on line 14
+[10-Apr-2023 04:35:30 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 15
+[10-Apr-2023 04:38:49 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:38:49 America/Chicago] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php:12
+Stack trace:
+#0 /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php(12): in_array(Array, NULL)
+#1 {main}
+  thrown in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:38:56 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/new_Fct.php on line 14
+[10-Apr-2023 04:39:01 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:39:01 America/Chicago] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php:12
+Stack trace:
+#0 /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php(12): in_array(Array, NULL)
+#1 {main}
+  thrown in /home2/babimors/gbable.motorsfeere.com/pages/ajout_depense.php on line 12
+[10-Apr-2023 04:42:40 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/ajout_encaissement.php on line 15
+[10-Apr-2023 04:56:08 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/suivie.php on line 13
+[10-Apr-2023 05:03:17 America/Chicago] PHP Warning:  Undefined array key "user_role" in /home2/babimors/gbable.motorsfeere.com/pages/suivie.php on line 13
+[18-Jun-2023 13:22:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /home2/babimors/gbable.motorsfeere.com/pages/new_Fct.php:14
+Stack trace:
+#0 /home2/babimors/gbable.motorsfeere.com/pages/new_Fct.php(14): in_array('admin', 'marketing')
+#1 {main}
+  thrown in /home2/babimors/gbable.motorsfeere.com/pages/new_Fct.php on line 14
